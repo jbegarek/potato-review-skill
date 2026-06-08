@@ -2,6 +2,7 @@ temp/
 .potato/
 output/
 scripts/
+docs/superpowers/
 *.zip
 *.log
 __pycache__/
