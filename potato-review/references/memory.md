@@ -71,7 +71,7 @@ Use observations only when entries are structured with evidence.
 ```markdown
 ## 2026-06-07
 - observation: This folder usually uses APA 7.
-- evidence: Week 1 and Week 2 assignment prompts both required APA 7.
+- evidence: Two recent assignment prompts in this folder both required APA 7.
 - confidence: medium
 - expires: 2026-09-01
 ```
